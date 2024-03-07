@@ -1,5 +1,5 @@
 # CGV
-“If you can't HODL, you won't be rich”
+# “If you can't HODL, you won't be rich”
 ## Introducing CGV Token, the epitome of innovation on the TON blockchain, with a strategic release plan ensuring sustainable growth and value appreciation. With a total supply of 100 million tokens, CGV Token prioritizes scarcity and value preservation.
 
 ## Utilizing the latest advancements of the TON blockchain, CGV Token guarantees unparalleled security, scalability, and efficiency in every transaction. TON's cutting-edge technology empowers CGV Token with lightning-fast transaction speeds and negligible fees, setting a new standard in digital asset transactions.
